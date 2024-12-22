@@ -10,7 +10,8 @@ int main() {
         printf("1. Run Task 1\n");
         printf("2. Run Task 2\n");
         printf("3. Run Task 3\n");
-        printf("4. Exit\n");
+        printf("4. Run Task 4\n");
+        printf("5. Exit\n");
         printf("Enter your choice: ");
 
         // Get user choice
@@ -28,6 +29,9 @@ int main() {
                 main_c();
                 break;
             case 4:
+                main_d();
+                break;
+            case 5:
                 printf("Exiting program. Goodbye!\n");
                 return 0;
             default:
