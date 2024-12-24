@@ -4,7 +4,7 @@ CFLAGS = -Wall -Wextra -std=c99
 TARGET = master_program
 
 # Source files and their object files
-SOURCES = main.c a/main_a.c b/main_b.c c/main_c.c d/main_d.c a/A_2.c b/palindrome.c c/matrix.c d/magicMatrix.c
+SOURCES = main.c a/main_a.c b/main_b.c c/main_c.c d/main_d.c e/main_e.c a/A_2.c b/palindrome.c c/matrix.c d/magicMatrix.c e/shortestPath.c
 OBJECTS = $(SOURCES:.c=.o)
 
 all: $(TARGET)
