@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "magicMatrix.h"
 
-void main_d()
+int main_d()
 {
     int size;
 
@@ -23,4 +23,6 @@ void main_d()
 
     // Check if the matrix is a magic square
     checkMagicMatrix((int *)matrix, size);
+
+    return 0;
 }

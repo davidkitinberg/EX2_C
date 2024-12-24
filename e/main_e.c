@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "LightestPath.h"
 
-void main()
+int main_e()
 {
     int n, start, end;
     int graph[MAX_NODES][MAX_NODES];
@@ -29,4 +29,6 @@ void main()
     scanf("%d", &end);
 
     findLightestPath(graph, n, start, end);
+
+    return 0;
 }

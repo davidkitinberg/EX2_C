@@ -7,5 +7,6 @@ void main_b();
 void main_c();
 void main_d();
 void main_e();
-
+void main_f();
+void main_g();
 #endif
