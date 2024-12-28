@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "string.h": "c",
+        "subarrsize.h": "c",
+        "stdio.h": "c",
+        "canbeputtogether.h": "c",
+        "stdbool.h": "c"
+    }
+}

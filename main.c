@@ -40,21 +40,21 @@ int main() {
             case 5:
                 main_e();
                 break;
-            // case 6:
-            //     main_b();
-            //     break;
-            // case 7:
-            //     main_c();
-            //     break;
-            // case 8:
-            //     main_d();
-            //     break;
-            // case 9:
-            //     main_c();
-            //     break;
-            // case 10:
-            //     main_d();
-            //     break;
+            case 6:
+                main_f();
+                break;
+            case 7:
+                main_g();
+                break;
+            case 8:
+                main_h();
+                break;
+            case 9:
+                main_i();
+                break;
+            case 10:
+                main_j();
+                break;
             case 11:
                 printf("Exiting program. Goodbye!\n");
                 return 0;
