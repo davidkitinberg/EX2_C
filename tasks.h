@@ -9,4 +9,6 @@ void main_d();
 void main_e();
 void main_f();
 void main_g();
+void main_h();
+void main_i();
 #endif

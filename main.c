@@ -49,12 +49,12 @@ int main()
         case 7:
             main_g();
             break;
-        // case 8:
-        //     main_h();
-        //     break;
-        // case 9:
-        //     main_i();
-        //     break;
+        case 8:
+            main_h();
+            break;
+        case 9:
+            main_i();
+            break;
         // case 10:
         //     main_j();
         //     break;

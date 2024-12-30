@@ -12,8 +12,9 @@ SOURCES = \
 	d/main_d.c d/magicMatrix.c \
 	e/main_e.c e/LightestPath.c \
 	f/main_f.c f/Knapsack.c\
-	g/main_g.c g/SubArraySize.c
-
+	g/main_g.c g/SubArraySize.c\
+	h/main_h.c h/Ex8.c\
+	i/main_i.c i/Jumper.c
 
 OBJECTS = $(SOURCES:.c=.o)
 
